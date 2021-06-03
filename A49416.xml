@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lucian's Charon: or, A survey of the follies of mankind Translated from the Greek. With notes, and a prefatory dialogue in vindication of translations.</title>
+            <author>Lucian, of Samosata.</author>
+         </titleStmt>
+         <extent>Approx. 82KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49416</idno><idno type="EEBO-CITATION">99828364</idno>
+  <idno type="VID">32791</idno>
+  <idno type="EEBO-PROQUEST">2240883736</idno>
+  
+            <idno type="STC">Wing L3426A</idno>
+            <idno type="STC">ESTC R216639</idno>
+            <idno type="PROQUEST">99828364</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828364e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32791)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1928:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lucian's Charon: or, A survey of the follies of mankind Translated from the Greek. With notes, and a prefatory dialogue in vindication of translations.</title>
+                  <author>Lucian, of Samosata.</author>
+               </titleStmt>
+               <extent>15, [3], 54 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Loudon Farrow, and sold by the book-sellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy cataloged is misbound: p. 25 (D4r) follows p. 22 (D2v).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Greek literature --  Translations into English --  Early works to 1800.</term>
+               <term type="topical_term">Charon (Greek mythology) --  Early works to 1800.</term>
+               <term type="topical_term">Mercury (Roman deity) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32791:1"/>
+            <p>LUCIAN<hi>'s</hi> CHARON: OR, A SURVEY OF THE Follies of MANKIND. Translated from the <hi>Greek.</hi> With <hi>Notes,</hi> and <hi>A Prefatory</hi> Dialogue <hi>in Vindication of</hi> TRANSLATIONS.</p>
+            <q xml:lang="lat">
+               <l>—Nil dulcius est, bene quam munita tenera</l>
+               <l>Edita Doctrina Sapientum Templa serena;</l>
+               <l>Despicere unde queas alios, passim{que} videre</l>
+               <l>Errare, at{que} viam palantes quarere Vitae.</l>
+               <bibl>
+                  <hi>Lucret.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Loudon Farrow,</hi> and Sold by the Book-Sellers of <hi>London</hi> and <hi>Westminster.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:32791:2"/>
+            <pb facs="tcp:32791:2"/>
+            <head>THE PREFACE.</head>
+            <list>
+               <item>Eumenes.</item>
+               <item> Philenor.</item>
+            </list>
+            <sp>
+               <speaker>Eum.</speaker>
+               <p>THE <hi>Mountain</hi> was <hi>Big,</hi> and it hath brought forth a <hi>Mouse!</hi> We expected from your Leisure and Study some <hi>Heroick Poem,</hi> or some Curious piece of <hi>Philology,</hi> or at least some Ingenious <hi>Essaies</hi> or <hi>Dia<g ref="char:EOLhyphen"/>logues</hi> of your <hi>own,</hi> and now to be put off with a poor sorry <hi>Translation!</hi> I don't know what you may think on't, but I'm sure your Friends have rea<g ref="char:EOLhyphen"/>son enough to be angry with you.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>For what? Pray. Did I ever make 'em any <hi>Promise,</hi> or give 'em any Encouragement to hope for such great matters from me? Suppose you thought I had been writing an exact <hi>Geography</hi> of the <hi>Moon,</hi> or the <hi>An<g ref="char:EOLhyphen"/>nals</hi> of the World before the <hi>Flood,</hi>
+                  <pb n="4" facs="tcp:32791:3"/>was I therefore bound to satisfie your groundless Expectations? But pray why are you so offended with <hi>Tran<g ref="char:EOLhyphen"/>slations,</hi> especially seeing they are so much in <hi>Fashion</hi> in this Age?</p>
+            </sp>
+            <sp>
+               <speaker>Eum.</speaker>
+               <p>'Tis true indeed so they are, but little for the <hi>Credit</hi> of the Age be it spoken, since that which was a <hi>Censure</hi> upon the <hi>Last,</hi> seems to have been also a <hi>Prognostick</hi> of the <hi>Talents</hi> and <hi>Studies</hi> of <hi>This</hi> Generation:
+<q>
+                     <l>Such is our Pride, our Folly, or our Fate,</l>
+                     <l>That only those that cannot Write Translate.</l>
+                     <bibl>Sir <hi>J. Denham.</hi>
+                     </bibl>
+                  </q> for certainly the World would never be so pester'd with <hi>Translations,</hi> if Men had <hi>Wit</hi> enough to write any thing of their <hi>Own.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>I'm sure the Age is little be<g ref="char:EOLhyphen"/>holding to you for the <hi>Character</hi> you have given it: And I can't but won<g ref="char:EOLhyphen"/>der that you shou'd be so <hi>severe</hi> upon <hi>this Age,</hi> when you know that <hi>others</hi> have been equally involved in the same
+<pb n="5" facs="tcp:32791:3"/>Guilt. Your palate it seems is more nice and delicate than the <hi>Romanes</hi> in <hi>Tully</hi>'s time, who read with plea<g ref="char:EOLhyphen"/>sure and delight <hi>De Fin: L. 1. tabel<g ref="char:EOLhyphen"/>las Latinas ad verbum de Graecis expressas,</hi> and he instances in the wri<g ref="char:EOLhyphen"/>tings of <hi>Ennius, Pacuvius, Caecilius,</hi> and others, which were but <hi>Transla<g ref="char:EOLhyphen"/>tions</hi> of <hi>Euripides,</hi>
+                  <note place="margin">Br. fr. Mena. Hor. fr. Alcaeu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <hi>Menan<g ref="char:EOLhyphen"/>der,</hi> &amp; <hi>Sophocles;</hi> nay even in <hi>Augustus</hi> his time when Learning flourish'd most a<g ref="char:EOLhyphen"/>mongst them, you will find even <hi>Virgil</hi> himself ever and anon Translating <hi>Ho<g ref="char:EOLhyphen"/>mer</hi> and <hi>Theocritus,</hi> nay and borrow<g ref="char:EOLhyphen"/>ing Lines out of <hi>Ennius</hi> and <hi>Lucre<g ref="char:EOLhyphen"/>tius</hi> too, that writ in his <hi>own</hi> Lan<g ref="char:EOLhyphen"/>guage. And if you can like no <hi>English</hi> Authors but such as write ingenious things of their <hi>own,</hi> I fear you won't find many to read: for if you observe but our best <hi>Poets,</hi> (who don't pre<g ref="char:EOLhyphen"/>tend to Translate, yet) their finest and most delicate Conceptions are none of their <hi>own.</hi> but meer <hi>Translations</hi> from
+<pb n="6" facs="tcp:32791:4"/>the <hi>Greeks</hi> and <hi>Latines,</hi> as even <hi>themselves</hi> Confess in their <hi>Prefaces</hi> and other <hi>Critical Discourses.</hi> And you may remember some Eminent <hi>De<g ref="char:EOLhyphen"/>vines</hi> in whose writings you have tra<g ref="char:EOLhyphen"/>ced <hi>Hierocles</hi> and others for several Pages together; to say nothing of those of other Professions. And now I wou'd fain know why it is not as commenda<g ref="char:EOLhyphen"/>ble to <hi>Translate</hi> a <hi>whole</hi> Author, and own it to be <hi>his,</hi> as to <hi>Steal</hi> here and there a <hi>Fragment,</hi> and make his best Notions pass for ones <hi>own.</hi> Or, sup<g ref="char:EOLhyphen"/>posing such a <hi>dulness</hi> and <hi>barrenness</hi> of Thought and Fancy (as you talk of) has possest the minds of Men of late, why may not one as well bring to light some ingenious Pieces of the <hi>Antients,</hi> as lie idle, as you do, and write nothing?</p>
+            </sp>
+            <sp>
+               <speaker>Eum.</speaker>
+               <p>As if it were not <hi>better</hi> to be doing <hi>nothing,</hi> than doing <hi>ill;</hi> and at least not to <hi>obstruct</hi> Learning, when one knows not how to <hi>advance</hi> it. For certainly <hi>Translations</hi> are the greatest
+<pb n="7" facs="tcp:32791:4"/>obstructions of Learning immaginable: for to what purpose shou'd Men be at the expence of so much time and pains in studying <hi>Greek</hi> and <hi>Latine,</hi> when they may read the same Books in their <hi>Mother Tongue?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>And do you call this an <hi>Ob<g ref="char:EOLhyphen"/>struction</hi> of Learning? I shou'd think now that nothing in the World has a greater tendency to its <hi>advancement.</hi> Those rich Treasures of Knowledge &amp; Learning among the <hi>Ant<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ents</hi> are no longer now lock'd up in <hi>unintelligible</hi> Words and <hi>All Languages are Barbar<g ref="char:EOLhyphen"/>ous that we don't understand,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>1. Cor. 14.11. Barbar<g ref="char:EOLhyphen"/>ous</hi> Languages! For this way of <hi>Translating.</hi>
+                  <q>
+                     <l>— has to our Country brought</l>
+                     <l>All that they writ, and all they thought.</l>
+                     <bibl>Mr. <hi>Waller.</hi>
+                     </bibl>
+                  </q> Men may now <hi>familiarly Converse</hi> with the Wits of <hi>Greece</hi> and <hi>Rome,</hi>
+                  <pb n="8" facs="tcp:32791:5"/>and that without the <hi>laborious</hi> and <hi>ungrateful</hi> Toil of Learning <hi>Words</hi> &amp; <hi>Syllables: AURENGEZEBE</hi> to his Tutor, Hist. of the <hi>Mogul. A Study so longsome and tedious, so dry and insipid, that no ingenious Mind can employ itself therein without some reluctancy and a kind of debase<g ref="char:EOLhyphen"/>ment. For,</hi>
+                  <q>
+                     <l>Of all Heav'n's Judgments that was sure the worst,</l>
+                     <l>When our bald Fathers were at <hi>Babel</hi> curst:</l>
+                     <l>For, such a Price did that Presumption cost,</l>
+                     <l>That half our Lives in trifling Words are lost.</l>
+                     <l>Po. <hi>Mescel.</hi> 2d. part.</l>
+                  </q>
+                  <hi>But Translations</hi> has in a great mea<g ref="char:EOLhyphen"/>sure <hi>remov'd</hi> that <hi>Curse,</hi> and (in a Sense) once more made <hi>the whole Earth of ONE Language and of ONE Speech:</hi> For now <hi>Every Man</hi> may hear <hi>Plutarch</hi> and <hi>Tully, Homer</hi> and <hi>Virgil, Theoritus, Horace</hi> and <hi>Ovid,</hi> and innumerable others, speak<g ref="char:EOLhyphen"/>ing in his <hi>own Tongue</hi> the wonder<g ref="char:EOLhyphen"/>ful works of <hi>God</hi> and Nature, the
+<pb n="9" facs="tcp:32791:5"/>admirable Productions of Wit and Fan<g ref="char:EOLhyphen"/>cy, and what ever else may yield a grateful Satisfaction to noble and in<g ref="char:EOLhyphen"/>genious Minds. Nay more than all this, he may bear <hi>GOD Himself</hi> speaking to him, by his Holy <hi>Prophets,</hi> by his blessed <hi>Apostles,</hi> and by his <hi>own SON,</hi> declaring the <hi>Mysteries</hi> of the <hi>Kingdom</hi> of <hi>Heaven,</hi> and those <hi>important</hi> things that concern his <hi>Everlasting Peace</hi> and <hi>Happiness.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eum.</speaker>
+               <p>You do well to add this, for all the rest wou'd signifie very little but only to furnish me with another <hi>Argument</hi> against your beloved <hi>Tran<g ref="char:EOLhyphen"/>slations.</hi> in whose praises you are so transported. You say <hi>Every Man</hi> may now read <hi>Plutarch</hi> and <hi>Tully,</hi> and the rest in his <hi>own</hi> Language, and is not this the way to make Learning <hi>common, cheap,</hi> and <hi>contemptible,</hi> when every ordinary <hi>Mechanick</hi> shall be as well acquainted with these Au<g ref="char:EOLhyphen"/>thors as he that has spent <hi>10</hi> or <hi>12</hi> Years in the Universities? The Wise
+<pb n="10" facs="tcp:32791:6"/>
+                  <hi>Egyptians</hi> took other measures. They regarded their Learning as <hi>Sacred,</hi> and communicable to none but their <hi>Kings</hi> &amp; <hi>Priests,</hi> and therefore wrapt it up in <hi>Symbols</hi> and <hi>Hieroglyphicks</hi> to conceal it from the <hi>HORAT. Profa<g ref="char:EOLhyphen"/>num Vulgus.</hi> But we have put by the Curtain and exposed all to <hi>publick View.</hi> Those rich Treasures of <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> and <hi>Learning</hi> are now <hi>unlock'd</hi> indeed, and scattered abroad among the <hi>Rabble;</hi> and the mischief on't is, we do but <hi>cast Pearls before Swine who will trample them under their Feet, and turn again and rent us:</hi> For they have not <hi>Capacities</hi> to <hi>un<g ref="char:EOLhyphen"/>derstand</hi> 'em so as to <hi>value</hi> them, but just so much only as to make 'em <hi>Con<g ref="char:EOLhyphen"/>ceited</hi> and despise all the World as <hi>il<g ref="char:EOLhyphen"/>leterate</hi> and <hi>ignorant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Then it seems you look upon those <hi>Mechanicks</hi> only as meer <hi>Ani<g ref="char:EOLhyphen"/>mals,</hi> not considering that many who understand not <hi>Greek</hi> and <hi>Latine</hi> are yet more <hi>truly wise</hi> than your Learn<g ref="char:EOLhyphen"/>ed
+<pb n="11" facs="tcp:32791:6"/>
+                  <hi>Criticks</hi> and <hi>Gramarians.</hi> Ceb. Tab. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. A Man may be learned in the <hi>Languages</hi> and expert in all the <hi>Sciences,</hi> &amp; yet be as great a <hi>Fool</hi> as others. And notwith<g ref="char:EOLhyphen"/>standing your charge of <hi>Conceitedness</hi> upon the <hi>Vulgar,</hi> it may with more Truth and Reason be retorted upon many <hi>Schollars.</hi> For as <hi>Lib. 1. Ess. 24. MONTAIGNE</hi> saies, <hi>If you do but observe 'em when they are newly come from the Universities, all that you will find they have got is, that their</hi> Latine <hi>and</hi> Greek <hi>has only made 'em greater and more conceited Cox<g ref="char:EOLhyphen"/>combs than when they went from home.</hi> But you are afraid Know<g ref="char:EOLhyphen"/>ledge and Learning shou'd grow too <hi>Common,</hi> whereas I use to think that <hi>Bonum quò communius eò melius;</hi> and I always took it for a <hi>Blessing</hi> promised (not a Curse threatned) <hi>That the Earth should be filled with
+<pb n="12" facs="tcp:32791:7"/>Knowledge, as the Waters cover the Sea:</hi> Neither can I apprehend what disadvantage it is to the Sacred <hi>Scrip<g ref="char:EOLhyphen"/>tures,</hi> that whereas they were once Confin'd to the narrow-limits of <hi>Judea, they</hi> are now dispersed over the Face of the <hi>whole Earth.</hi> And to think that the <hi>Commoness</hi> of Learning shou'd render it <hi>Contemptible,</hi> is <hi>very</hi> extravagant; fince 'tis the <hi>want</hi> of it <hi>only</hi> that makes <hi>any despise</hi> it. I see no reason therefore to debar the <hi>Vul<g ref="char:EOLhyphen"/>gar</hi> of that <hi>Knowledge</hi> which perhaps <hi>they</hi> wou'd make <hi>better use</hi> of than we ourselves.</p>
+            </sp>
+            <sp>
+               <speaker>Eum.</speaker>
+               <p>I am of Your opinion in that Point; for I am not so much against the Translation of <hi>useful Practical</hi> Authors, as of those <hi>Learned</hi> Pieces, which I'm sure the <hi>Vulgar</hi> have nei<g ref="char:EOLhyphen"/>ther <hi>means</hi> nor <hi>leisure</hi> to <hi>understand,</hi> let their <hi>Capacities</hi> be what <hi>they</hi> will; and I believe <hi>my</hi> Sentiments are not <hi>unally'd</hi> to <hi>yours</hi> in this matter. But <hi>yet</hi> I have one Objection more against
+<pb n="13" facs="tcp:32791:7"/>Translations in general, which is, That they always come so vastly short of the <hi>Original.</hi> For to say nothing of the <hi>abuse</hi> of Translations, when Men <hi>per<g ref="char:EOLhyphen"/>vert</hi> and <hi>corrupt</hi> their Authors, ei<g ref="char:EOLhyphen"/>ther thro' <hi>ignorance</hi> or <hi>design,</hi> to serve an <hi>Opinion,</hi> or shew their <hi>Wit,</hi> or the like; but supposing men never so well qualified with <hi>Learning</hi> and <hi>In<g ref="char:EOLhyphen"/>tegrity,</hi> yet when they have done what they can, they will present us but with a <hi>Shadow</hi> and <hi>Resemblance</hi> of the Original Piece, there will be</p>
+               <p>— <hi>Nihil in Imagine vivum,</hi> Ovid. nothing of the <hi>Life</hi> and <hi>Spirit</hi> of the Author in their Translation: and for ought I know, the <hi>Title</hi> of <hi>Lucian</hi>'s <hi>Ghost</hi> might have been as proper and suitable to your <hi>Translation,</hi> as to those <hi>Dialogues</hi> of the late <hi>French<g ref="char:EOLhyphen"/>man,</hi> which he writ only in <hi>Imitation</hi> of him; unless you have perform'd it better then any I have yet met with.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>You have at length said some<g ref="char:EOLhyphen"/>thing</hi> to the <hi>purpose,</hi> and <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:32791:8"/>this Objection to be unanswerable; for I have not the vanity to think I have <hi>equal'd</hi> much less <hi>excell'd</hi> those that have gone before me in attempts of this nature. But yet if I have but given the <hi>Sence</hi> of the Author, and rend'red it in some measure pleasing and delightful, I hope it may excite in some Persons a desire of understand<g ref="char:EOLhyphen"/>ing him <hi>better</hi> in his own Language; which was no small part of my <hi>design</hi> in this Undertaking. Perhaps you may think Translations are more likely to produce other effects, and that Men will less willingly give themselves the <hi>trouble</hi> of Studying <hi>Greek</hi> &amp; <hi>Latine,</hi> when they may read the same Books in <hi>English:</hi> But I have known Some who wou'd never have taken the pains to <hi>read</hi> and <hi>understand</hi> some <hi>Greek</hi> Authors, if they had not been first <hi>charm'd</hi> with the <hi>Translation,</hi> and at the same time entertain'd a Belief that they must needs be much more <hi>Agreeable</hi> and <hi>Taking</hi> in the <hi>Origi<g ref="char:EOLhyphen"/>nal.</hi>
+               </p>
+            </sp>
+            <pb n="15" facs="tcp:32791:8"/>
+            <sp>
+               <speaker>Eum.</speaker>
+               <p>I wish with all my Heart this little piece of yours may find <hi>many more</hi> of that humour. In the mean time I'll take it home (if you please) and peruse it, and see how it looks in <hi>English.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>I brought it down for that very purpose; and I the rather put it into <hi>your</hi> Hands, because I know <hi>you</hi> are not more Critical in <hi>discerning</hi> Faults, than able to <hi>Correct</hi> and <hi>amend</hi> 'em.</p>
+            </sp>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:32791:9"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>SECT. I. <hi>Charon</hi> and <hi>Mercury</hi>'s first Congress upon Earth, the reason of <hi>Charon</hi>'s Enterprize, and the difficulty of obtaining <hi>Mercury</hi>'s Assistance.</item>
+               <item>SECT. II. <hi>Mercury</hi>'s Contrivance for taking a View of all the World together.</item>
+               <item>SECT. III. Their successful Experiment of a certain Poe<g ref="char:EOLhyphen"/>tical way of Building.</item>
+               <item>SECT. IV. Some Inconveniences discovered and remedi<g ref="char:EOLhyphen"/>ed. Of <hi>Mile</hi> the famous Wrestler.</item>
+               <item>SECT. V. Of <hi>Cyrus</hi> the Persian. The Conference of <hi>Craesus</hi> and <hi>Solon,</hi> concerning Happiness.</item>
+               <item>SECT. VI. <hi>Charon</hi>'s Observations and Sentiments concern<g ref="char:EOLhyphen"/>ing Gold, at his first fight of it.</item>
+               <item>SECT. VII. A Continuation of the Conferrence between <hi>Solon</hi> and <hi>Croesus</hi> concerning his Golden Offerings
+<pb facs="tcp:32791:9"/>to <hi>Apollo</hi> at <hi>Delphos.</hi> VVith the Fates of <hi>Croesus</hi> and <hi>Cyrus.</hi>
+               </item>
+               <item>SECT. VIII. Of <hi>Polycrates</hi> the Tyrant of <hi>Samos.</hi> His hap<g ref="char:EOLhyphen"/>py Life and unfortunate End.</item>
+               <item>SECT. IX. Of the Vanity of Men in regard of their Hopes and Fears and other P<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssions. And of the <hi>Desti<g ref="char:EOLhyphen"/>nies</hi> spining the Thread of every Min's life, <hi>&amp;c.</hi>
+               </item>
+               <item>SECT. X. Of the va<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious Messengers of Death, and how little they are regarded by Men in Prosperity. The best way to live wisely and Dye content<g ref="char:EOLhyphen"/>edly; and to prevent immoderate Joy and de<g ref="char:EOLhyphen"/>light in earthly things.</item>
+               <item>SECT. XI. Of Kings and Princes: Their Condition none of the happiest. The Life of Man compar'd by <hi>Charon</hi> to a Bubble.</item>
+               <item>SECT. XII. <hi>Charon</hi>'s Exhortation to Men to leave their Follies and Vanities, with <hi>Mercury</hi>'s reasons why he thinks it must needs be ineffectual.</item>
+               <item>SECT. XIII. Of the <hi>Grecian</hi> Sepulchres and Monuments, and Ceremonies in Burning the dead, and of the Equal State and Condition of Rich and Poor <hi>&amp;c.</hi> after Death.</item>
+               <pb facs="tcp:32791:10"/>
+               <item>SECT. XIV. Of some antient Cities, <hi>Nineve, Babylon, Troy, &amp;c.</hi> That Cities dye as well as Men.</item>
+               <item>SECT. XV. Of the vanity of Men in Warring to enlarge their Dominions. <hi>Charon</hi> and <hi>Mereury</hi>'s Parting, <hi>Charon</hi>'s Reflections upon the whole.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:32791:10"/>
+            <head>LUCIAN'S CHARON: OR, A Survey <hi>of the Follies of Mankind.</hi>
+            </head>
+            <list>
+               <item>
+                  <note n="(a)" place="bottom">
+                     <hi>Mercury]</hi> The Son of <hi>Jupiter</hi> and <hi>Maia</hi> the Messenger of the Gods, and <hi>Charon</hi>'s Mate.</note>
+                  <hi>Mercury.</hi>
+               </item>
+               <item>
+                  <note n="(b)" place="bottom">
+                     <p>
+                        <hi>Charon]</hi> The Ferry Man of Hell, who car<g ref="char:EOLhyphen"/>ried the Souls of the Dead over the Rivers <hi>Ache<g ref="char:EOLhyphen"/>ion, Styx, Cocytus</hi> and <hi>Phlegethon,</hi> into the Shades below. He is thus described by <hi>Virgil, Aen.</hi> 6.
+<q>
+                           <l>
+                              <hi>Charon</hi> the Ferry-Man with an uncouth mein</l>
+                           <l>Frequents those Rivers; on his horrid Chin</l>
+                           <l>A long and griesly Beard; his Eyes do fiercely glare;</l>
+                           <l>And a vile Cloak he do's upon his Shoulders wear.</l>
+                        </q>
+                     </p>
+                     <p>Our <hi>Author</hi> r<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pre<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ents him in his Mind as an <hi>ill-natur'd cross grain'd</hi> Fellow, yet <hi>witty</hi> and <hi>face<g ref="char:EOLhyphen"/>tious,</hi> delighting in <hi>mischief,</hi> and in nothing else.</p>
+                  </note>
+                  <hi>Charon.</hi>
+               </item>
+            </list>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>WHAT do you laugh at, <hi>Charon?</hi> and how is it that you have left your Boat,
+<pb n="2" facs="tcp:32791:11"/>and are come up hither into the Light, since you are not wont to concern yourself with the affairs of the Living?</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>I had a great mind, O <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> to know something of the af<g ref="char:EOLhyphen"/>fairs of Humane Life, and what <hi>Men</hi> are <hi>doing</hi> in the World; as also what <hi>Enjoyments</hi> Death deprives 'em of, which makes 'em <hi>take on so heavily</hi> when they come <hi>to us;</hi> for not a Man of 'em passes without <hi>Tears</hi> and <hi>Lamentations.</hi> Having therefore gain'd leave of
+<note n="(c)" place="bottom">
+                        <hi>Pluto]</hi> The God of Hell.</note>
+                     <hi>Pluto,</hi>
+                     <note n="(d)" place="bottom">
+                        <hi>As the Thessalian Youth] Ulysses,</hi> who des<g ref="char:EOLhyphen"/>cended into <hi>Hades</hi> to Consult with the Prophet <hi>Tiresias</hi> about his Affairs above, and having ob<g ref="char:EOLhyphen"/>tain'd leave to return upon Earth again, he dedi<g ref="char:EOLhyphen"/>cated a Pillar to <hi>Pluto</hi> and <hi>Proserpina</hi> his Wife.</note> as the <hi>Thessalian Youth</hi> had done before me, to come upon Earth but for one day, I ascended into Light; and I think myself very happy that I have here light upon you: for being a <hi>Stranger</hi>
+                     <pb n="3" facs="tcp:32791:11"/>on Earth, I know very well that you will lead me about and shew me every thing, as I am sure if <hi>any Body</hi> can do it you can.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Indeed I am not at <hi>leisure,</hi> O Ferry-Man, for I am just now go<g ref="char:EOLhyphen"/>ing of <hi>an Errand</hi> from
+<note n="(e)" place="bottom">
+                        <hi>Jupiter]</hi> The God of Heaven, the Father of <hi>Mercury,</hi> and Chief of all the Gods.</note>
+                     <hi>Jupiter</hi> to dispatch a certain business of <hi>import<g ref="char:EOLhyphen"/>ance</hi> to <hi>Mankind,</hi> and he is so apt to be angry, that I am afraid if I shou'd <hi>loiter</hi> here with you, he wou'd here<g ref="char:EOLhyphen"/>after confine me [as well as you] to the dark infernal Regions;
+<note n="(f)" place="bottom">
+                        <hi>Or serve me as he did</hi> Vulcan <hi>lately] Vulcan</hi> was the Son of <hi>Jupiter</hi> and <hi>Juno,</hi> who for his <hi>deformity</hi> was thrown down headl<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng out of Hea<g ref="char:EOLhyphen"/>ven by <hi>Jupiter;</hi> he fell upon the Isle <hi>Lemnos,</hi> but was so lamed with his fall that he halted ever alter.</note> or serve me as he did <hi>Vulcan</hi> lately, and as I am filling Wine to 'em take me by the Foot and pitch me over the <hi>Heavenly Thresholds,</hi> that I may make 'em <hi>sport</hi> with my <hi>halting.</hi>
+                  </p>
+               </sp>
+               <pb n="4" facs="tcp:32791:12"/>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>And will you take <hi>no notice</hi> of me then, <hi>wand'ring</hi> up and down in this <hi>Strange Country, You</hi> that are my <hi>Friend,</hi> my <hi>Mate,</hi> and my <hi>Col<g ref="char:EOLhyphen"/>leagne?</hi> But you might remember that I never desir'd <hi>you</hi> to draw the Pump, or to row an Oar, tho' you are able enough to do Service, but you lie all along snoring in the bot<g ref="char:EOLhyphen"/>tom of the Boat, or if you light by chance of some Talkative <hi>Ghost,</hi> you sit perpetually Chatting with him, whilst I [as Old as I am] row both the Oars by my self. But prithee dear <hi>Mercury,</hi> for Heaven's sake don't leave me, but lead me about and shew me what is to be seen in the World, that I may return a <hi>little wiser</hi> than I came. For, if you for<g ref="char:EOLhyphen"/>sake me I shall be just like a <hi>Blind Man:</hi> for as he goes doubtfully and at every turn is ready to fall being in the <hi>Dark,</hi> so shall I being <hi>blinded</hi> with the <hi>Light.</hi> But don't deny me this kindness, O <hi>Mercury,</hi> and I
+<pb n="5" facs="tcp:32791:12"/>shall always <hi>remember</hi> it, [tho' I know not how to <hi>reward</hi> it.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Well! I foresee the Fatal Effects of my <hi>good Nature,</hi> for we shall <hi>both of us</hi> be <hi>rewarded</hi> with a severe <hi>Swinging;</hi> yet chuse it, I'll venture it, for who can have the heart to let a Friend beg <hi>so poor</hi> a thing as this in vain? But to Travel over all the World [as you talk] and to take a distinct view of every par<g ref="char:EOLhyphen"/>ticular thing wou'd be an <hi>Endless Labour.</hi> Such a perambulation wou'd take up a great many <hi>Years</hi> time, and so I shall have <hi>Hue and Cry</hi> sent af<g ref="char:EOLhyphen"/>ter me as a <hi>Fugitive</hi> from <hi>Jupiter:</hi> and besides <hi>you</hi> can't but neglect your <hi>Business,</hi> and <hi>Pluto</hi>'s Kingdom will suffer great damage, if in so many years no Souls be brought in<g ref="char:EOLhyphen"/>to his Dominions, neither can
+<note n="(g)" place="bottom">
+                        <hi>Aeacus]</hi> One of the three Judges of Hell. And it shou'd seem by our <hi>Author</hi> that he took the Toll of every one that <hi>Charon</hi> ferryed over.</note>
+                     <hi>Aeacus</hi> the Publican chuse but grum<g ref="char:EOLhyphen"/>ble,
+<pb n="6" facs="tcp:32791:13"/>if in all that time he
+<note n="(h)" place="bottom">
+                        <hi>Receive not one Half-penny.]</hi> Every one was oblig'd to give a Half-penny as the <hi>Fare</hi> for his passage over the <hi>Ferry,</hi> and therefore usually when any one. Died, his Friends put a Half-penny into his Mouth for the same purpose.</note> receive not one <hi>Half-penny.</hi> Some way therefore must be found out to shew you the most remarkable things, and so as you may take a view of 'em all <hi>together.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>You know what is best to be done, <hi>Mercury:</hi> as for me being a meer Stranger upon Earth I'm not acquainted with these things.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>The main thing is to find out some high place that will afford us a large <hi>Prospect.</hi> Now if you had the priveledge of going up into <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> I need trouble my self no fur<g ref="char:EOLhyphen"/>ther; for you might see <hi>every thing exactly</hi> from thence as from a high
+<pb n="7" facs="tcp:32791:13"/>
+                     <hi>Watch Tower.</hi> But since you that are always Conversant amongst <hi>Ghosts</hi> and <hi>Shades</hi> cannot be admitted into the <hi>Courts</hi> of <hi>Jupiter,</hi> 'tis more than time to go and seek out some high Mountain.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Don't you remember, <hi>Mer<g ref="char:EOLhyphen"/>eury,</hi> what I us'd to say to you as we were Sailing? when the wind grew high and beat over whart the Sail, and made the Waves rise, then you, <hi>as your Wit serves you,</hi> bid me furl the Sail, or set my Foot against the Mast, or drive with the Wind; but I bid you sit still [and never trouble your Head about it] for I know best what I have to do. Do you there<g ref="char:EOLhyphen"/>fore, in like mannner, what you think fit, being as it were the <hi>Pilot,</hi> and I as becomes a <hi>Passenger,</hi> will sit still and be ready to do only what you wou'd have me.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>You say very well, <hi>Charon,</hi> I <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m not Ignorant what's best to be done, and I'll find out a convenient
+<pb n="8" facs="tcp:32791:14"/>Hill for a prospect for us. [Let me see] what if we shou'd chuse
+<note n="(i)" place="bottom">
+                        <hi>Caucasus]</hi> A Hill in <hi>Asia,</hi> between the <hi>Euxine</hi> and <hi>Caspian</hi> Seas.</note>
+                     <hi>Cau<g ref="char:EOLhyphen"/>casus,</hi> or rather
+<note n="(k)" place="bottom">
+                        <hi>Parnassus]</hi> A Mountain in <hi>Greece,</hi> having two Tops (called <hi>Cirrha</hi> and <hi>Nissa,</hi> under which the <hi>Muses</hi> did inhabit.</note>
+                     <hi>Parnassus,</hi> or
+<note n="(l)" place="bottom">
+                        <hi>Olympus]</hi> A Hill in <hi>Macedonia.</hi>
+                     </note>
+                     <hi>Olympus,</hi> that is higher than ei<g ref="char:EOLhyphen"/>ther of 'em? Now I think on't <hi>Olym<g ref="char:EOLhyphen"/>pus</hi> will do the best of all; but there will need a little of your help and assistance.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Say but what you wou'd ha' me do, and you shall find me ready to Obey you.</p>
+               </sp>
+            </div>
+            <div n="3" type="section">
+               <pb n="9" facs="tcp:32791:14"/>
+               <head>SECT. III.</head>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>The Poet
+<note n="(m)" place="bottom">
+                        <p>Homer <hi>tells us that the two Sons of</hi> Aloeus <hi>the Giant, &amp;c.]</hi> Or rather of <hi>Iphimedia,</hi> his Wife, by <hi>Neptune</hi> who ravisht her. So <hi>Hom. Odyss.</hi> 11.
+<q>
+                              <l>— Next <hi>Aloeus</hi> his Wife,</l>
+                              <l>Fair <hi>Iphimedia,</hi> who to <hi>Neptune</hi> baie,</l>
+                              <l>Two impious Sons which threat'ned <hi>Heaven</hi> with War.</l>
+                           </q> and a little after comes in this story of their climbing up into Heaven:
+<q>
+                              <l>These to the Gods, with impious fury driven,</l>
+                              <l>Threat'ned grim War, and to invade their Heaven.</l>
+                              <l>On <hi>Ossa</hi> they the great <hi>Olympus</hi> set,</l>
+                              <l>And shadie <hi>Pelion</hi> next they pile on it,</l>
+                           </q> To which I shall only adde that of <hi>Virg. Georg.</hi> 1.
+<q>
+                              <l>Thrice they essay'd to pile the Mountains up,</l>
+                              <l>Thrice to the Stars they rais'd 'em, but in vain!</l>
+                              <l>As oft the <hi>Thund'rer</hi> cast them down again.</l>
+                           </q>
+                        </p>
+                     </note>
+                     <hi>Homer</hi> tells us that the two Sons of <hi>Aloeus</hi> the Giant, being as yet but <hi>Boys,</hi> were minded to pull up the Mountain
+<note n="(n)" place="bottom">
+                        <hi>Ossa]</hi> A Mountain in <hi>Thessaly.</hi>
+                     </note>
+                     <hi>Ossa</hi> by the Roots, and set it up<g ref="char:EOLhyphen"/>on <hi>Olympus,</hi> and then to pile
+<note n="(o)" place="bottom">
+                        <hi>Pelion]</hi> Another Mountain in <hi>Thessaly.</hi>
+                     </note>
+                     <hi>Pe<g ref="char:EOLhyphen"/>lion</hi> upon <hi>Ossa,</hi> supposing by this means a facility of <hi>climbing</hi> up into
+<pb n="10" facs="tcp:32791:15"/>
+                     <hi>Heaven;</hi> and tho' those Youths being wicked [and pursuing wicked Inten<g ref="char:EOLhyphen"/>tions] were met with by the <hi>Divine Vengeance,</hi> yet why may not <hi>we</hi> safe<g ref="char:EOLhyphen"/>ly and successfully pile one Mountain upon another, since we do it out of <hi>no ill Design</hi> against the Gods, but only for a more Commodious Prospect!</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>And do you think, <hi>Mercury,</hi> that <hi>we two</hi> are able to lift either <hi>Pelion</hi> or <hi>Ossa?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Why not O <hi>Charon?</hi> What, do you think meanlier of <hi>us,</hi> that are <hi>Gods,</hi> than of those verminly <hi>Infants.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>No; but the thing itself seems to be Impossible.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Phoo! that's because you are an <hi>Ignoramus,</hi> and not vers'd in <hi>Poetical History:</hi> But the Excellent <hi>Homer</hi> found it so easie a matter to <hi>remove Mountains,</hi> that with the re<g ref="char:EOLhyphen"/>peating of but <hi>two Verses</hi> he has made us a <hi>way</hi> up into Heaven. Be<g ref="char:EOLhyphen"/>side, I wonder this shou'd seem so prodigious to you, seeing you know
+<pb n="11" facs="tcp:32791:15"/>that
+<note n="(p)" place="bottom">
+                        <p>Atlas <hi>sustains Heaven it self, &amp;c.]</hi> A high Mountain in <hi>Afrita,</hi> feigned by the Poets to have been a Man, as almost all the Mountains and Rivers in the World were. Of which <hi>Vir<g ref="char:EOLhyphen"/>gil</hi> thus <hi>Aen.</hi> 4.
+<q>
+                              <l>
+                                 <hi>Atlas</hi> whose Shoulders do support the Sky,</l>
+                              <l>Whose aged Head is cover'd o'er with Snow;</l>
+                              <l>And down his Chin impetuous Rivers flow.</l>
+                              <l>His frozen Beard with Icicles array'd,</l>
+                              <l>And gloomy Clouds surround his hoary Head.</l>
+                           </q>
+                        </p>
+                     </note>
+                     <hi>Atlas</hi> sustains <hi>Heaven</hi> itself and <hi>all us</hi> in it, upon his Shoulders; nay and when a hundred to one but you have heard of
+<note n="(q)" place="bottom">
+                        <hi>my Brother</hi> Hercules] To wit, by the Fa<g ref="char:EOLhyphen"/>ther<hi>'s</hi> side, he being the Son of <hi>Jupiter</hi> and <hi>Alcmena.</hi>
+                     </note> my Brother <hi>Hercules</hi> too, how he supplied the place of <hi>Atlas,</hi> and bore the burthen for one day while he rested him self.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>I have heard some such things indeed, but whether they be <hi>true</hi> or no <hi>You</hi> and the <hi>Poets</hi> know best.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>O most certainly <hi>true, Cha<g ref="char:EOLhyphen"/>ron,</hi> for to what <hi>end</hi> shou'd these <hi>wise Men</hi> tell a <hi>Lye?</hi> Let us there<g ref="char:EOLhyphen"/>fore heave up <hi>Ossa</hi> in the first place
+<pb n="12" facs="tcp:32791:16"/>[and set it upon <hi>Olympus</hi>] as <hi>Homer</hi> the <hi>Architect</hi> directs us in his Poem.
+<q>Then upon <hi>Ossa</hi> shady <hi>Pelion</hi> set.</q> Do you see now how easily and how <hi>Poetically</hi> we have done it! Let me now get up, and look about me, to see whether this will do, or that we must build higher. — O Strange! we are yet but at the very Foot of Heaven! For Eastward one can hard<g ref="char:EOLhyphen"/>ly discern <hi>Jonia</hi> and <hi>Lydia,</hi> and Westward one can see no farther than <hi>Italy</hi> and <hi>Sicily,</hi> and Northward only to <hi>Istria</hi> and the parts adjacent, and this way one can only see <hi>Crete,</hi> and that not very clearly neither. There<g ref="char:EOLhyphen"/>fore we must be fain to heave up
+<note n="(r)" place="bottom">
+                        <hi>Oeta]</hi> A Hill in in the Borders of <hi>Thessaly.</hi>
+                     </note>
+                     <hi>Oeta</hi> too, and then <hi>Parnassus</hi> a top of 'em all.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Come on then! only let us have a care that we don't make our work <hi>Top-heavy;</hi> for if it and we
+<pb n="13" facs="tcp:32791:16"/>shou'd tumble together, we shou'd dearly experiment this <hi>Poetical</hi> way of <hi>Building</hi> with our broken Pates.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Never fear, <hi>Charon,</hi> but all will be safe enough. Come put on <hi>Oeta,</hi> and then we'll set up <hi>Parnas<g ref="char:EOLhyphen"/>sus.</hi> Now I'll mount again [and look about me] — O it does <hi>rare<g ref="char:EOLhyphen"/>ly</hi> now! I can see all over every where. Come do you get up now too.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Well, give me your Hand then, for 'tis a vast height you make me climb up here.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Why, if you have a mind to satisfye your <hi>Curiosity,</hi> you must expect to run a little <hi>hazzard:</hi> but take hold of my Hand, and be sure to set your Feet fast that they may not slip. So, so, now all's well, we are both got safe up: and seeing <hi>Par<g ref="char:EOLhyphen"/>nassus</hi> has two Tops, I'll sit on one of 'em and you on th' other. Now look about every way, and try what you can see.</p>
+               </sp>
+            </div>
+            <div n="4" type="section">
+               <pb n="14" facs="tcp:32791:17"/>
+               <head>SECT. IV.</head>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>I see a huge broad <hi>Earth,</hi> and a great <hi>Lake</hi> flowing every where round about it, I see also <hi>Mountains</hi> and <hi>Rivers,</hi> bigger than
+<note n="(s)" place="bottom">
+                        <hi>Cocytus and Phlegethon]</hi> Two Rivers in Hell.</note>
+                     <hi>Cocytus</hi> and <hi>Phlegethon;</hi> and a sort of very <hi>little tiny Men,</hi> together with their little Nests.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Those are <hi>Cities,</hi> Man, which you call <hi>Nests.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Do you see now what a deal of <hi>pains</hi> we ha' taken for just <hi>nothing?</hi> and ha' remov'd <hi>Parnassus</hi> and <hi>Casta<g ref="char:EOLhyphen"/>lia</hi> and <hi>Oeta</hi> and all the rest of the Mountains to <hi>no purpose.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Why so?</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Why, because we are mounted such a <hi>height</hi> above all, that I can <hi>see</hi> nothing <hi>clearly</hi> and <hi>dis<g ref="char:EOLhyphen"/>tinctly.</hi> And my desire was not to see Cities only or Mountains as one
+<pb n="15" facs="tcp:32791:17"/>may see 'em drawn in <hi>Pictures</hi> and <hi>Maps,</hi> but to see <hi>Men</hi> and what they <hi>Do,</hi> and to <hi>hear</hi> what they <hi>say;</hi> as I did when you first met with me, and seeing me laugh, ask'd me the reason of it: for I'm wonderfully pleas'd with such things.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>What was that?</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>A certain Man being invi<g ref="char:EOLhyphen"/>ted to supper [as I suppose] by one of his Friends, <hi>I'll be with you anon,</hi> says he, <hi>don't doubt it:</hi> and just as he was speaking a Tile falls of o' the House [no body knows how] and <hi>knocks him o'th' Head.</hi> Now I laugh'd to think that the Man cou'd not be as good as his <hi>Word,</hi> [and yet that he was so silly as to make such a pos<g ref="char:EOLhyphen"/>sitive promise.] But now we must go down again if you wou'd ha' me see or hear any thing to the purpose.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Sit still! I'll remedy this inconveniency immediately, and with a certain <hi>Charm</hi> I learnt of <hi>Homer,</hi> make you the most <hi>quick sighted</hi> ima<g ref="char:EOLhyphen"/>ginable;
+<pb n="16" facs="tcp:32791:18"/>and after I shall have pro<g ref="char:EOLhyphen"/>nounc'd those <hi>Verses,</hi> be confident that your Eyes shall no longer be dim, but you will see every thing clearly.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Say then.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <l>The Film<hi>'s</hi> remov'd which cover'd once your Eye,</l>
+                  <l>That Gods and Men you now may well descry.</l>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Oh strange!</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>What can you see now?</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Most wonderfully.
+<note n="(t)" place="bottom">
+                        <hi>Lynceus himself is blind to me]</hi> He was the Son of <hi>Aphareus,</hi> and of such a piercing fight that he cou'd see thro' a Stone Wall: he cou'd see into Hell, and what they did there; and cou'd discern Ships 130 Leagues off. (or else the Poets lyed.</note>
+                     <hi>Lyn<g ref="char:EOLhyphen"/>ceus</hi> himself is Blind to me, Wou'd you teach me this Charm the first thing you do. But will you hear me repeat some of <hi>Homer</hi>'s Verses, that you may know that even I am not altogether ignorant of his Works.</p>
+               </sp>
+               <pb n="17" facs="tcp:32791:18"/>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>How came <hi>you</hi> [I wonder] to know any thing of 'em, being a poor ignorant <hi>Ferry-man.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>You Villyfie my <hi>calling.</hi> But when I Ferryed him over the Lake [at his Death] I heard him repeat abundance of Verses; and some of 'em I remember yet. A great Storm then lay on us; for when he began to fing an unfortu<g ref="char:EOLhyphen"/>nate Song,
+<note n="(u)" place="bottom">
+                        <hi>Neptune]</hi> The God of the Sea.</note>
+                     <hi>Neptune</hi> was so pro<g ref="char:EOLhyphen"/>vok'd therewith, that he rais'd such a horrible <hi>Tempest</hi> as had like to have overwhelm'd us all. Then he being Sea-sick <hi>vomited</hi> up a sort of Verses about <hi>Scylla</hi> and <hi>Charybdis</hi> and <hi>Cyclops.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Nay then 'tis no wonder if of so much Vomit <hi>something</hi> was preserved.</p>
+               </sp>
+               <pb n="18" facs="tcp:32791:19"/>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>But tell me,
+<q>
+                        <l>What tall Man's that whose Shoulders large and broad</l>
+                        <l>Seem Strong and able for a weighty Load?</l>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>'Tis
+<note n="(w)" place="bottom">
+                        <hi>Milo the Famous Wrestler of Croton]</hi> A huge strong Man that dwelt at <hi>Croton</hi> a City in <hi>Greece,</hi> who, at the <hi>Olympick</hi> Games, wou'd carry an Ox half a Furlong, and Kill a Bull with his Fist, and Eat him when he had done. He won the Prize Six-times in the <hi>Olympick</hi> Games, and as oft in the <hi>Pythian.</hi>
+                     </note>
+                     <hi>Milo</hi> the Famous <hi>Wrestler</hi> of <hi>Croton.</hi> And the <hi>Greeks</hi> applaud him for taking up a Bull, and carrying it half a furlong.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>But how much more justly will they applaud <hi>me,</hi> O <hi>Mercury,</hi> who shall e'er long carry <hi>Milo him<g ref="char:EOLhyphen"/>self,</hi> as big as he is, into my <hi>Boat,</hi> when he comes to us being over<g ref="char:EOLhyphen"/>come by that Unconquerable Adver<g ref="char:EOLhyphen"/>sary <hi>Death,</hi> and shall wonder to see himself buckle in th' Hams so? Then he will make heavy Com<g ref="char:EOLhyphen"/>plaints to us, rememb'ring the <hi>Gar<g ref="char:EOLhyphen"/>lands</hi>
+                     <pb n="19" facs="tcp:32791:19"/>and <hi>Applauses</hi> he has had. Now he's mightily Conceited of him<g ref="char:EOLhyphen"/>self, because of his Strength in car<g ref="char:EOLhyphen"/>rying a Bull, but does he not ex<g ref="char:EOLhyphen"/>pect to Dye sometime?</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Do you think that he has any thoughts of <hi>Death</hi> while he is in this <hi>Strength</hi> and <hi>Vigour?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Let him alone, <hi>Mercury,</hi> he'll make us very merry e're long when he comes to us, and won't then be able to bear a <hi>Fly,</hi> much less to carry an <hi>Ox.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V.</head>
+               <p>But who is that other fine Gen<g ref="char:EOLhyphen"/>tleman? tho' no <hi>Grecian,</hi> as I con<g ref="char:EOLhyphen"/>jecture by his Habit?</p>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>'Tis <hi>Cyrus</hi> the Son of <hi>Cam<g ref="char:EOLhyphen"/>byses,</hi> who Translated the Empire from the <hi>Medes</hi> to the <hi>Persians:</hi> 'Tis he that lately vanquish'd the <hi>Assyri<g ref="char:EOLhyphen"/>ans,</hi> and besieg'd <hi>Babilon;</hi> and is
+<pb n="20" facs="tcp:32791:20"/>now preparing to carry his Army into <hi>Lydia,</hi> making account that having subdued <hi>Croesus,</hi> he may com<g ref="char:EOLhyphen"/>mand the Universe.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>But where is that <hi>Croesus?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Look that way, and you will see a great Tower fenced with three Walls; There is <hi>Sardis:</hi> And don't you see <hi>Croesus</hi> sitting on a Gol<g ref="char:EOLhyphen"/>den Bed, talking with <hi>Solon</hi> the <hi>Athe<g ref="char:EOLhyphen"/>nian?</hi> Shall we listen, and hear what they are talking on?</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Aye, with all my Heart, <hi>Mercury.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>Tell me,</hi> O Athenian <hi>Stran<g ref="char:EOLhyphen"/>ger, now you have seen all my Wealth &amp; Riches, as well my vast Treasures as all my unwrought Gold, and other magnificence, who it is of all Man<g ref="char:EOLhyphen"/>kind that you account the most happy.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>What will <hi>Solon</hi> say, I wonder.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Don't doubt, <hi>Charon,</hi> but he knows what to answer.</p>
+               </sp>
+               <pb n="21" facs="tcp:32791:20"/>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>The Happy, O</hi> Croesus, <hi>are very few; but of those that I have known</hi>
+                     <note n="(x)" place="bottom">
+                        <hi>Cleobis and Biton]</hi> The Mother of these two young Men was the Priestess of <hi>Juno,</hi> and the time being come that she was to go up to perform the Rites of the Goddess, the Mules that were to draw her Chariot were not brought timely enough: but these young Men striping off their Garments, anointed their Bodies with Oyl, and putting themselves into the Traces, drew their Mother in her Chariot to the Tem<g ref="char:EOLhyphen"/>ple. She being extreamly taken with the Piety of her Sons, petition'd the Goddess that she wou'd best<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w upon them <hi>a Reward of their Piety the greatest that cou'd be given to Men.</hi> The young Men having Sup'd with their Mother in the Temple, went to Sleep &amp; were found Dead in the Morning. This Story, with others of the like nature, is produc'd by <hi>Plutarch</hi> and <hi>Tully,</hi> as a proof of the Soul's Immortality, and of the Happiness of a future State to the Virtuous.</note> Cleobis <hi>and</hi> Biton <hi>the Sons of the Priestess, I esteem the most happy.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>He means the Sons of the <hi>Argive</hi> Priestess, who after they had drawn their Mother in her Chariot to the Temple, died suddenly.</p>
+               </sp>
+               <pb n="22" facs="tcp:32791:21"/>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>Well, grant them to hold the first Rank of Felicity, but who then may challenge the second?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <note n="(y)" place="bottom">
+                        <hi>Tellus the Athenian]</hi> A certain poor <hi>Athe<g ref="char:EOLhyphen"/>nian,</hi> that willingly took upon him an exploit, wherein he cou'd not avoid present Death.</note> Tellus <hi>the</hi> Athenian, <hi>who having led a Virtuous Life, gave it up for the good of his Country.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>And what, you Villian, don't you think me happy.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>I know not yet,</hi> O Croesus, <hi>neither can I tell</hi>
+                     <note n="(z)" place="bottom">
+                        <p>
+                           <hi>Untill your Life be finished]</hi> So <hi>Ovid. Met.</hi> 1. L. 3.
+<q>
+                              <l>— None ought to be</l>
+                              <l>Accounted Happy, till his Breath be gone,</l>
+                              <l>His Glass be out, and his last Sand be run.</l>
+                              <l>
+                                 <hi>And before him,</hi> Eurip. Troad.</l>
+                              <l>— There's none can say,</l>
+                              <l>A Man is happy till his Dying day.</l>
+                           </q>
+                        </p>
+                        <p>The meaning of all this is, that that only de<g ref="char:EOLhyphen"/>serves t<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> b<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> accounted <hi>Happiness</hi> which is <hi>durable</hi> and <hi>lasting,</hi> which none can rob us of, but will accompany us into <hi>another World.</hi>
+                        </p>
+                     </note>
+                     <hi>untill your Life be finished: for Death is the surest Judge of this matter, and a Life that continues prosperous to the very last.</hi>
+                  </p>
+               </sp>
+               <pb n="25" facs="tcp:32791:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:32791:22"/>
+               <pb n="23" facs="tcp:32791:22"/>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Well said, <hi>Solon!</hi> I see thou art not unmindful of us, but makest my <hi>Boat</hi> the best Judge of all Earth<g ref="char:EOLhyphen"/>ly Felicity.</p>
+               </sp>
+            </div>
+            <div n="6" type="section">
+               <head>SECT. VI.</head>
+               <p>But who are those that <hi>Croesus</hi> sends out there, and what is it they carry on their Shoulders?</p>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>They are <hi>Golden Wedges,</hi> which he dedicates to
+<note n="(a)" place="bottom">
+                        <hi>Apollo Pythius]</hi> The God of Wisdom, call'd <hi>Pythius</hi> from the consulting his Oracles, the chief of which was at <hi>Delphos</hi> a City of <hi>Phosiis</hi> in <hi>Greece.</hi>
+                     </note>
+                     <hi>Apollo Pythius,</hi> as a reward of the Oracle which he will find e'er long to have foretold his <hi>Destruction;</hi> for he's a great Admirer of Prophesies.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>And that's the famous <hi>Gold</hi> it seems that looks so pale on't: I have often <hi>heard</hi> on't, but I never <hi>saw</hi> it till now.</p>
+               </sp>
+               <pb n="24" facs="tcp:32791:23"/>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Aye, this is the thing so much Celebrated, and for which there is so much <hi>War</hi> and <hi>bloodshed.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>For my part I don't see what 'tis good for, but only to <hi>bur<g ref="char:EOLhyphen"/>den</hi> those that carry it.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Why, don't you know how many <hi>Battels</hi> have been fought, how many <hi>Murthers</hi> Committed, what <hi>Treacheries</hi> and <hi>Perjuries,</hi> what long and dangerous <hi>Navigations,</hi> and how much <hi>care</hi> and <hi>pains</hi> Men take for the purchasing of it?</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>What for <hi>this, Mercury,</hi> that seems to be little better than <hi>Brass?</hi> For I know <hi>Brass</hi> well enough because [as you know] I receive a <hi>Halfpenny</hi> of every Passenger.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>'Tis even so, <hi>Charon.</hi> But <hi>Brass</hi> being plentiful is little esteem'd, whereas <hi>Gold</hi> being more scarce, [is highly priz'd] and they search into the very <hi>Bowels</hi> of the <hi>Earth</hi> for it: for <hi>it too</hi> comes out of the Earth as well as <hi>Lead</hi> and other <hi>baser Metals.</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:32791:23"/>
+               <pb facs="tcp:32791:24"/>
+               <pb n="25" facs="tcp:32791:24"/>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>You discover the prodigious Folly of Men, that are so besotted with a thing so <hi>pale</hi> and so <hi>heavy.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>But <hi>Solon</hi> yonder seems not to admire it, as you see, for he laughs at <hi>Croesus,</hi> and derides
+<note n="(b)" place="bottom">
+                        <hi>The Vain-Glory of the</hi> Barbarian] <hi>i. e.</hi> of <hi>Croesus,</hi> for the <hi>Greeks</hi> accounted all <hi>Barbarians</hi> but themselves.</note> the Vain-Glory of the <hi>Barbarian.</hi> And he seems to have a mind to ask him something; let's hearken.</p>
+               </sp>
+            </div>
+            <div n="7" type="section">
+               <head>SECT. VII.</head>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>But tell me</hi> O Croesus, <hi>do you think</hi> Apollo <hi>has any need of those Golden Ingots?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>Yes, for I'm sure he has no such Offerings at</hi> Delphos.</p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>Do you think then the God will be happy, if amongst other things he possess your Golden Wedges?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>Why not?</hi>
+                  </p>
+               </sp>
+               <pb n="26" facs="tcp:32791:25"/>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>You won'd make one believe,</hi> O Croesus, <hi>there is a great Poverty in Heaven, when if the Gods shall desire any Gold, they must have it brought to them out of</hi> Lydia.</p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>Why,</hi>
+                     <note n="(c)" place="bottom">
+                        <hi>Where is there so much Gold — as with us]</hi> This <hi>Croesus</hi> was the Richest Man then Li<g ref="char:EOLhyphen"/>ving, so that the <hi>Wealth of Croesus</hi> became a Proverb.</note>
+                     <hi>where is there so much to be found as here with us?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>Let me ask you this one Ques<g ref="char:EOLhyphen"/>tion more: Have you any</hi> Iron <hi>grow<g ref="char:EOLhyphen"/>ing in</hi> Lydia?</p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>No, none at all.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>Then you are destitute of the more useful metall.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>What is</hi> Iron <hi>better than Gold?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>If you will hear me without Passion, you may know.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>Say then,</hi> O Solon.</p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>Which do you think the better, those things that will</hi> preserve <hi>and</hi>
+                     <pb facs="tcp:32791:25"/>
+                     <pb facs="tcp:32791:26"/>
+                     <pb n="27" facs="tcp:32791:26"/>defend us, <hi>or those that must be</hi> watch'd <hi>and</hi> defended themselves?</p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>Surely, those that</hi> keep <hi>and</hi> preserve us.</p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>If therefore</hi> Cyrus <hi>shou'd in<g ref="char:EOLhyphen"/>vade</hi> Lydia, <hi>as some discourse, wou'd you make</hi> Golden Swords <hi>for your Soldiers, or wou'd not those of</hi> Iron <hi>be more useful?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>Yes, for a certain.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>Ay, and if you do not provide Store of that, you and all your</hi> Gold <hi>may be led Captive by the</hi> Persians.</p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>Good words, I pray.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>Nay the Gods forbid that this shou'd ever come to pass! But you seem however to acknowledge that</hi> Iron <hi>is the better Mettall.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>Wou'd you therefore have me recall those</hi> Golden <hi>Wedges, and send</hi> Iron <hi>ones in their stead?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <p>
+                     <hi>He has as little need of one as the other; but whether you dedi<g ref="char:EOLhyphen"/>cate</hi> Iron <hi>or</hi> Brass <hi>or</hi> Gold, <hi>you do but expose it as a</hi> Prey; <hi>either to the</hi>
+                     <pb n="28" facs="tcp:32791:27"/>Phocians <hi>or</hi> Boeotians, <hi>or the</hi> Delphi<g ref="char:EOLhyphen"/>ans <hi>themselves, or to some other impe<g ref="char:EOLhyphen"/>rious Robber; for</hi> Apollo <hi>cares little for your</hi> Golden Offerings.</p>
+               </sp>
+               <sp>
+                  <speaker>Croes.</speaker>
+                  <p>
+                     <hi>You are always</hi> envying <hi>and</hi> disparaging <hi>my Wealth and Riches.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="8" type="section">
+               <head>SECT. VIII.</head>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>This delicate <hi>Lydian,</hi> O <hi>Charon,</hi> can't bear this <hi>Truth</hi> and <hi>plain-dealing:</hi> for it seems strange to him that such a poor contemptible fellow shou'd talk so freely to a <hi>Prince</hi> things so unpleasing and un<g ref="char:EOLhyphen"/>grateful. But
+<note n="(d)" place="bottom">
+                        <hi>E'er long he'll remember</hi> Solon] So he did when he was taken Prisoner by <hi>Cyrus;</hi> for, being ascended the Funeral Pile and just ready to be Burned, he cry'd out, O <hi>Solon, Solon, Solon! Cyrus</hi> ask'd why he called on <hi>Solon?</hi> Whereupon he told him what <hi>Solon</hi> had said to him, <hi>That no Man can be said to be Happy till his Death. Cyrus</hi> considering it might be his own Case, sav'd him alive, and used him as a Friend and <hi>a</hi> Compa<g ref="char:EOLhyphen"/>nion.</note> e'er long he'll re<g ref="char:EOLhyphen"/>member <hi>Solon</hi>'s Words, when he is
+<pb n="29" facs="tcp:32791:27"/>taken Captive by <hi>Cyrus,</hi> and con<g ref="char:EOLhyphen"/>strain'd to ascend the Funeral Pile. For a while ago I heard
+<note n="(e)" place="bottom">
+                        <hi>Clotho]</hi> One of the <hi>Destinies.</hi>
+                     </note>
+                     <hi>Clotho</hi> reading the <hi>Fates</hi> of each <hi>Mortal,</hi> a<g ref="char:EOLhyphen"/>mong which these thing were writ<g ref="char:EOLhyphen"/>ten; <hi>That</hi> Croesus <hi>be taken Captive by</hi> Cyrus, <hi>and that</hi> Cyrus <hi>himself be slain by that</hi> Scythian <hi>Woman.</hi> Don't you see that <hi>Scythian</hi> Woman there riding on a White Horse?</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Yes, yes, I see her.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>That's <hi>Tomyris</hi> who having cut off the Head of <hi>Cyrus</hi> with her own Hand,
+<note n="(f)" place="bottom">
+                        <hi>Cast it into a Bowl full of Blood]</hi> With this reproachful Saying, <hi>Here take thy fill of Blood, which thou hast so Thirsted after.</hi>
+                     </note> cast it into a Bowl full of Blood. But do you see also that young Man? That is his Son <hi>Cambyses,</hi> who shall Reign after his Father, and having overthrown Mul<g ref="char:EOLhyphen"/>titudes
+<pb n="30" facs="tcp:32791:28"/>in <hi>Libia</hi> and <hi>Ethiopia,</hi> he shall Dye mad after he has Kill'd
+<note n="(g)" place="bottom">
+                        <hi>Apis]</hi> A Bull, worshipped by the <hi>Egypti<g ref="char:EOLhyphen"/>ans.</hi> When one Died they made great Lamen<g ref="char:EOLhyphen"/>tations till after long search they had found ano<g ref="char:EOLhyphen"/>ther like him, which they brought with great Joy into the City <hi>Memphis,</hi> and having placed him in the Temple, the whole City feasted 7 Days. They were observing this Festival when <hi>Cambyses</hi> return'd from two unfortunate Expediti<g ref="char:EOLhyphen"/>ons, to <hi>Memphis:</hi> and thinking their Joy pro<g ref="char:EOLhyphen"/>ceeded from his Losses and Misfortunes, he Kill<g ref="char:EOLhyphen"/>ed the Magistrates, caused the Priests to be whipped, and wounded <hi>Apis</hi> to Death. After which our <hi>Author</hi> says he died Mad, but others say, That as he was taking Horse his Sword fell out of the Scabbard and wounded him in the Thigh, [where he had wounded <hi>Apis</hi>] of which he Died.</note>
+                     <hi>Apis.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>This is mighty pleasant! But who now wou'd so much as look at these Fellows that value themselves so much above others? And who cou'd imagine that <hi>This</hi> shou'd e're long be taken Captive, or that the <hi>Other</hi> shou'd have his <hi>Head</hi> swiming in a <hi>Bowl full of Blood.</hi>
+                  </p>
+                  <pb n="31" facs="tcp:32791:28"/>
+                  <p>But who is he, <hi>Mercury,</hi> that's cloath'd in Purple, with a Crown on his Head, and a Cook having open'd a Fish gives him a Ring,
+<q>
+                        <l>He that's surrounded with the neigh<g ref="char:EOLhyphen"/>b'ring Sea;</l>
+                        <l>And thinks himself no petty King to be.</l>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Well said, <hi>Charon!</hi> Why, that is
+<note n="(h)" place="bottom">
+                        <hi>Polycrates — who thinks himself compleat<g ref="char:EOLhyphen"/>ly Happy]</hi> He Flourished so in Wealth and Feli<g ref="char:EOLhyphen"/>city, that he never had any <hi>misfortune:</hi> But that it might be said he had once in his Life a mis<g ref="char:EOLhyphen"/>chance, he threw into the Sea a Diamond <hi>Ring</hi> which he highly prized. The day after his Cook happen'd to buy the same Fish which had swal<g ref="char:EOLhyphen"/>lowed the <hi>Ring,</hi> which he found and restored to him. Whereupon <hi>Amasis</hi> King of <hi>Egypt</hi> suspect<g ref="char:EOLhyphen"/>ing some great mischance always to attend such great Fortunes, wou'd no longer be in League with him, and soon after he was taken by <hi>Oroetes</hi> [or rather <hi>Orontes</hi>] the <hi>Persian</hi> Lord, and Hang<g ref="char:EOLhyphen"/>ed; being another Instance of the truth of <hi>Solon</hi>'s assertion.</note>
+                     <hi>Polycrates</hi> the Tyrant of <hi>Samos,</hi> who thinks himself compleat<g ref="char:EOLhyphen"/>ly <hi>Haappy,</hi> but for all that 'twill be his Fortune to be <hi>Hang'd</hi> after a
+<pb n="32" facs="tcp:32791:29"/>while, being betray'd by his Servant <hi>Maeandrius</hi> to <hi>Oroetus</hi> the <hi>Persian</hi> Lord; and then he will be the more miserable by falling so suddenly from so great Felicity. This I also learnt of <hi>Clotho.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Well done, <hi>Clotho!</hi> E'en let <hi>them</hi> all be Hang'd too, that they may know they are but <hi>Men,</hi> and that they are rais'd on purpose that their fall may be greater and more grievious. And they will make us rare sport when they come Naked into my <hi>Boat,</hi> and can bring neither their <hi>Purple</hi> nor their <hi>Tiaras</hi> nor <hi>Gol<g ref="char:EOLhyphen"/>den Beds</hi> along with them.</p>
+               </sp>
+            </div>
+            <div n="9" type="section">
+               <head>SECT. IX.</head>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Such will be the Fortune of those Men. But do you see that vast Multitude there, who are some of 'em <hi>Sailing,</hi> others <hi>Warring,</hi> others <hi>Pleading</hi> at the Bar, others <hi>Tilling</hi>
+                     <pb n="33" facs="tcp:32791:29"/>the Ground, others borrowing and taking Money lent to <hi>Usury,</hi> and o<g ref="char:EOLhyphen"/>thers <hi>Begging?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>I see a mixt Company of Men, and a Life full of trouble and vexation. I see also their Cities which are like <hi>Hives of Bees,</hi> and that every one of 'em has his <hi>peculi<g ref="char:EOLhyphen"/>ar Sting</hi> wherewith he vexes and tor<g ref="char:EOLhyphen"/>ments his Neighbour; and some of 'em like <hi>Wasps</hi> [do nothing] but in<g ref="char:EOLhyphen"/>fest and molest the weaker animals. But what vast Crowd is that which Swarms about 'em, and seems perpe<g ref="char:EOLhyphen"/>tually to be tormenting them at unawares.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Those are <hi>Hopes</hi> and <hi>Fears</hi> and <hi>Follies</hi> and <hi>Pleasures,</hi> O <hi>Charon, Covetousness, Anger, Hatred,</hi> and such like. In the lowest Rank of these <hi>Ignorance</hi> mingles herself; and <hi>Ha<g ref="char:EOLhyphen"/>tred, Wrath, Emulation, Unskilful<g ref="char:EOLhyphen"/>ness, Irresolution,</hi> and <hi>Avarice</hi> are in the same Company. Moreover those <hi>Hopes</hi> and <hi>Fears</hi> which you see fly<g ref="char:EOLhyphen"/>ing
+<pb n="34" facs="tcp:32791:30"/>over their Heads, these often light upon them, and sometimes strike them with Horror, and make 'em quake and tremble; but <hi>the other,</hi> tho' they be always hovering over them, yet when any one thinks most assuredly to reach 'em, they fly away and are vanish'd presently, leaving them gaping after 'em, just as you see
+<note n="(i)" place="bottom">
+                        <p>
+                           <hi>Tantalus]</hi> The Son of <hi>Jupiter</hi> and the Nymph <hi>Plota.</hi> He being to entertain some of the Gods, and having a mind to make trial of their Divinity, he killed and dressed his Son <hi>Pe<g ref="char:EOLhyphen"/>lops,</hi> and served him up at the Feast: which the Gods having discover'd, and abhorring the fact, they inflicted this Punishment on him which our <hi>Author</hi> mention, and is thus described by <hi>Homer, Odyss.</hi> 11.
+<q>
+                              <l>— Here <hi>Tantalus</hi> I saw</l>
+                              <l>Standing in Water to the very Chin,</l>
+                              <l>Without the pow'r to put his Lips therein.</l>
+                              <l>As oft as he provok'd with Thirst, does bend</l>
+                              <l>His parched Head, so oft does it descend:</l>
+                              <l>And when he thus has courted it in vain,</l>
+                              <l>It rises up to tempt his Longing Lips again.</l>
+                           </q>
+                        </p>
+                     </note>
+                     <hi>Tantalus</hi> tormented in Hell, being in like manner miserably deluded by the Water. And if you look wistly
+<pb n="35" facs="tcp:32791:30"/>you will see
+<note n="(k)" place="bottom">
+                        <hi>The Destinies]</hi> There were Three of 'em, <hi>Clotho, Lachesis,</hi> and <hi>Atropos;</hi> which are said to spin the thred of Mens lives. Of these each had a several Office: <hi>Clotho</hi> holds the Distaff, <hi>Lachesis</hi> draws out the Thread, and <hi>Atropos</hi> cuts the thred, and then Man's life is at an end.</note> the <hi>Destinies</hi> above spinning out certain small <hi>Threds</hi> from the Distaff to each particular Man, upon which he hangs and de<g ref="char:EOLhyphen"/>pends. Don't you see as it were cer<g ref="char:EOLhyphen"/>tain Copweb Threds hanging down from the Spindles to every one?</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>I see a very fine slender thred spun out to each Man, this to him, and that to another.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>You are in the right on't <hi>Charon;</hi> for <hi>this</hi> Man's fate depends upon <hi>this</hi> thing, and <hi>that</hi> Man's up<g ref="char:EOLhyphen"/>on another thing. And this Man shall be the Heir of him who hangs by a <hi>smaller Thred,</hi> and so likewise some other shall succeed him. And that's the meaning of the <hi>Destinies</hi>
+                     <pb n="36" facs="tcp:32791:31"/>spinning out these Threds to each Man. And as you see every one hanging by a slender Thred, so you must know that <hi>this</hi> Man being lift up a great <hi>height</hi> above the rest, he is very proud and haughty, but after a little while the thred being no lon<g ref="char:EOLhyphen"/>ger able to bear so great a weight, it breaks, and down he comes with <hi>a huge lumber:</hi> whereas <hi>another</hi> who was drawn up but a little way from the Earth, tho' he also fall, yet 'twill be <hi>without a noise,</hi> so as his Neigh<g ref="char:EOLhyphen"/>bours will scarce hear of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>These things are wonder<g ref="char:EOLhyphen"/>fully rediculous!</p>
+               </sp>
+            </div>
+            <div n="10" type="section">
+               <head>SECT. X.</head>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Nay alas, <hi>Charon,</hi> you can't find words fitly to express the Ridi<g ref="char:EOLhyphen"/>culousness of these Men, and of the things they are most <hi>solicitous</hi> and <hi>concern'd</hi> about; and [especially if
+<pb n="37" facs="tcp:32791:31"/>you considered] how oftentimes when they are big with hopes of affecting their designs, they are presently snatch'd away by
+<note n="(l)" place="bottom">
+                        <hi>Kind Death]</hi> i. e. Kind to <hi>Charon,</hi> as help<g ref="char:EOLhyphen"/>ing him to Passengers; he does not mean kind to those whom he snatches away from their un<g ref="char:EOLhyphen"/>enjoy'd possessions.</note> kind <hi>Death,</hi> and both they and their hopes perish. And tho' the Messengers and Ser<g ref="char:EOLhyphen"/>vants of <hi>Death</hi> [as you see] are very many, <hi>viz. Agues, Fevers, Consump<g ref="char:EOLhyphen"/>tions, Inflamations of the Lungs,</hi> &amp;c. as also the <hi>Sword</hi> and <hi>Poyson, Rob<g ref="char:EOLhyphen"/>bers, Officers of Justice,</hi> and <hi>Tyrants,</hi> yet those things never <hi>enter</hi> into their <hi>thoughts</hi> so long as their Designs <hi>prosper;</hi> but if once they be <hi>cross'd</hi> in them, and their hopes <hi>deccive</hi> them, then you shall hear nothing from 'em but <hi>Ah me!</hi> and <hi>Alas!</hi> and <hi>What shall I do!</hi> Whereas if they did but Consider at first that they <hi>them<g ref="char:EOLhyphen"/>selves</hi> are <hi>Mortal,</hi> and that after they
+<pb n="38" facs="tcp:32791:32"/>have liv'd as <hi>Strangers</hi> in the World a little while, they must pass away as it were out of a <hi>Dream,</hi> leaving all Earthly things behind them, cer<g ref="char:EOLhyphen"/>tainly they wou'd <hi>Live</hi> with more prudence and circumspection, and <hi>Die</hi> with less trouble and disturbance. But now hoping <hi>always</hi> to possess their present Enjoyments, when <hi>Death</hi> by his Servants calls them a<g ref="char:EOLhyphen"/>way, and they are taken with a <hi>Fe<g ref="char:EOLhyphen"/>ver</hi> or <hi>Consumption,</hi> they <hi>think much</hi> and are <hi>angry,</hi> as being a thing they never <hi>look'd for.</hi> But what wou'd that Man do who is building a House and is very earnest upon't, and has<g ref="char:EOLhyphen"/>tens his Workmen, if he knew, [not only] that it will <hi>one day come to ru<g ref="char:EOLhyphen"/>in,</hi> but that he when he has just fi<g ref="char:EOLhyphen"/>nished it, shou'd <hi>Die,</hi> and leave it to his Heir to posses and enjoy, where<g ref="char:EOLhyphen"/>as <hi>he himself</hi> [poor Creature] shou'd never so much as <hi>once Sup</hi> in it? And he that rejoyces because his Wife has born him a Son, and therefore feasts
+<pb n="39" facs="tcp:32791:32"/>his Neighbours and calls his Boy by his <hi>own Name,</hi> if he certainly foresaw that the Lad wou'd Dye at <hi>Seven Years old,</hi> do you think he wou'd be so over-joy'd at his Birth? But here is his Folly, in that he takes notice of him who has a <hi>Fortunate Son,</hi> and is the Father of a Famous <hi>VVrestler</hi>
+                     <note n="(m)" place="bottom">
+                        <hi>Or of one that has won the</hi> Olympick <hi>Games.</hi>] These Games were perform'd every 4th Year in the Fields adjoyning to the City <hi>Olympia</hi> in <hi>Greece;</hi> where Running, Wrestling, Hurling, Pitching; Horse-races, Chariot-races, and all manner of Exercises were perform'd by Persons which resort<g ref="char:EOLhyphen"/>ed thither from all parts of <hi>Greece.</hi> The Victors at those Games were publickly proclaim'd and Crowned, and at their return, receiv'd in Try<g ref="char:EOLhyphen"/>umph into their Respective Cities, where all their life-time after they enjoy'd exceeding great Immunities. <hi>Cioero</hi> in his <hi>Tuscul Qu.</hi> 1. Tells of one <hi>Diagoras</hi> a <hi>Rhodian,</hi> who saw two of his Sons in one day win the Prize in these Games; and that thereupon a certain <hi>Lacedemonian</hi> came to the Old Man, and gave him Joy in this manner, <hi>Dye O</hi> Diagoras, <hi>for you must not think to mount up to Heaven and be Immortal.</hi> Meaning, that if he liv'd long he might meet with many Crosses and without he cou'd never expect greater Felicity.</note> or of one that has won the <hi>Prize</hi>
+                     <pb n="40" facs="tcp:32791:33"/>in the <hi>Olympick</hi> Games; but he ne<g ref="char:EOLhyphen"/>ver minds his <hi>Neighbour</hi> who is car<g ref="char:EOLhyphen"/>rying out his little Son to his <hi>Fune<g ref="char:EOLhyphen"/>ral;</hi> neither does he confider by what a <hi>slender thred</hi> the Life of his own Son hangs. You see also what a Company there is of those that contend about their bounds and li<g ref="char:EOLhyphen"/>mits, and how they heap up a world of Riches, but before they can enjoy them they are call'd away by those Messengers and Servants I told you of.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>I see all these things, and I am thinking with my self what there shou'd be in Life that is so <hi>sweet</hi> and <hi>pleasant</hi> to 'em, or what there can be the loss of which de<g ref="char:EOLhyphen"/>serves to be <hi>Lamented.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="11" type="section">
+               <head>SECT. XI.</head>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Nay and if any one shou'd but seriously comtemplate even their
+<pb n="41" facs="tcp:32791:33"/>
+                     <hi>Kings</hi> and <hi>Princes,</hi> who seem to be the happiest of all Men, and to be plac'd as it were out of the <hi>Reach of Fortune,</hi> he will find their troubles infinitely to exceed their Pleasures: So many <hi>Fears</hi> and <hi>Disquiets,</hi> so ma<g ref="char:EOLhyphen"/>ny <hi>Treasons</hi> and <hi>Conspiracies,</hi> so ma<g ref="char:EOLhyphen"/>ny <hi>Indignities</hi> and <hi>Flatteries</hi> are they involv'd in! To say nothing of their <hi>Indispositions</hi> of <hi>Body,</hi> and <hi>Anxieties</hi> of <hi>Mind,</hi> and all their unruly <hi>Passi<g ref="char:EOLhyphen"/>ons;</hi> which are common to them with the meanest of their Subjects: so that it wou'd require as much time to re<g ref="char:EOLhyphen"/>count their Miseries and Calamities, as those of <hi>Private</hi> Men.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>I'll tell you, <hi>Mercury,</hi> what I think Men are like, and their whole Life in this World. Have you ne<g ref="char:EOLhyphen"/>ver seen those <hi>Bubbles</hi> in the Water, when it spouts out of a rising Spring? I mean those flatulent Tumours of which the Froth is made, some of those are very <hi>small</hi> ones, and there<g ref="char:EOLhyphen"/>fore are presently broken &amp; disolved;
+<pb n="42" facs="tcp:32791:34"/>others continue longer, having ga<g ref="char:EOLhyphen"/>ther'd others to 'em, and swell into a vast bigness: but at length these also are dissolved and come to nothing as well as the other: neither can it be otherwise. And such is the life of Man, every one is swell'd and puft up with a little Breath, but some more, some less; and those that swell the highest continue but a little while and others of 'em <hi>cease</hi> to be e'er they do well <hi>exist.</hi> But however sooner or later they <hi>must needs all perish.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>You have shown no less <hi>In<g ref="char:EOLhyphen"/>genuity,</hi> O <hi>Charon,</hi> in this Similitude than <hi>Homer</hi> himself when he com<g ref="char:EOLhyphen"/>par'd Mankind to the <hi>Leaves of Trees.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="12" type="section">
+               <head>SECT. XII.</head>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>But tho' they be such poor frail Creatures, yet you see how <hi>bu<g ref="char:EOLhyphen"/>sie</hi> they are and how eagerly they
+<pb n="43" facs="tcp:32791:34"/>
+                     <hi>contend</hi> with one another for <hi>Empire</hi> and <hi>Dominion,</hi> for <hi>Honour</hi> and <hi>Riches,</hi> when alas! they must leave all these things behind 'em, and come to us with only one poor Half-penny. Therefore seeing we are now seated thus on high, what do you say if I shou'd cry aloud to 'em and perswade 'em to desist from all their vain and foolish Enterprizes, and so to Live as having Death continually before their Eyes? Saying to 'em, <hi>O foolish People! Why do you so busie yourselves about these Trifles? Cease your vain Labours; for you must not think to live here for ever. None of those things you so highly prize are Eternal, neither can you carry any of 'em along with you when you Die: But you must depart Naked from hence, and leave your House and Land and Gold to o<g ref="char:EOLhyphen"/>thers; for these things are always changing their Masters.</hi> This and much more wou'd I cry unto them, if I thought I cou'd be heard; and
+<pb n="44" facs="tcp:32791:35"/>don't you think it wou'd do a deal of good in making them reform their Lives and become much Wiser?</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Oh good <hi>Charon!</hi> thou knowest not how they are possest with Ignorance and Error, so that thou canst not open their Ears even with an Awger, they are so stopt with wax, no less than the Ears of <hi>Ulysses</hi> his Companions were, lest they shou'd
+<note n="(n)" place="bottom">
+                        <p>
+                           <hi>Hearken to the Song of the Sirens]</hi> These were three Sea Monsters and their names were <hi>Tanthenope, Ligea,</hi> and <hi>Lenusia,</hi> the Daughters of <hi>Ahelous</hi> and <hi>Calliope</hi> they Sung so sweetly that the Sea-faring Men wou'd listen to 'em as they Sailed by, who they wou'd charm into a fast sleep and then drown 'em and devour 'em.
+<q>
+                              <l>
+                                 <hi>Of these</hi> Orpheus in Argonant <hi>thus sings.</hi>
+                              </l>
+                              <l>The <hi>Sirens</hi> here their Charming Voices raise,</l>
+                              <l>And ravish those that plow the shining Seas.</l>
+                           </q> And they were so cunning as to adapt their Songs to the <hi>humour</hi> and <hi>Inclination</hi> of their Auditors: to the Amorous they wou'd sing love songs, to the Ambitious Panegyricks of their Heorick Actions, <hi>&amp;c.</hi> And thus they accosted <hi>Ulysses,</hi> as <hi>Hom.</hi> tells us <hi>Odyss,</hi> 12. {inverted ⁂}
+<q>
+                              <l>Turn hither thou of great repute among</l>
+                              <l>The <hi>Greek,</hi> and listen to our pleasing Song</l>
+                              <l>None here have Sail'd but heard our Meladie,</l>
+                              <l>And blest the fates that sent 'em on the Sea;</l>
+                              <l>Ravisht they staid [and long they wisht to stay]</l>
+                              <l>And still more Wise and Knowing Sail'd away.</l>
+                           </q>
+                        </p>
+                        <p>But for all this <hi>Ulysses</hi> was Wiser than to hear<g ref="char:EOLhyphen"/>ken to 'em, and to avoid their Enchantments, caus'd himself to be bound to the Ship Mast, and his Men to stop their Ears with Wax, that they might not hear 'em.</p>
+                     </note> hearken to the Song of the <hi>Sirens.</hi> And beside how is it
+<pb n="45" facs="tcp:32791:35"/>possible they shou'd hear you, tho' you shou'd rive your very Throat with calling to 'em? For <hi>Ignorance</hi> has the same effects upon Men here, as the River
+<note n="(o)" place="bottom">
+                        <p>
+                           <hi>Lethe]</hi> A River in Hell, which whosoever drank of, it made them forget all that was past. They had a notion, that when the Souls had wand'red a thousand years in the <hi>Elysian</hi> fields, enjoying all manner of Bliss and Happiness, they were to come into Bodies, and live on Earth a<g ref="char:EOLhyphen"/>gain: But because so long as they rememb'red either the Miseries and Calamities they were expos'd to and underwent on Earth; or the Joys and Pleasures they possest in the <hi>Elysian</hi> Shades, they wou'd, never be willing to return into this miserable world, or if they did, they would dis<g ref="char:EOLhyphen"/>patch themselves out of it as soon as they ††† cou'd; Therefore when they came to drink of the River as they p<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>st by, they lost all Sence and Remembrance of past Happiness and Mise<g ref="char:EOLhyphen"/>ry, and being born did begin the world anew, as if they first entred into Being. For so <hi>Virg. Aen.</hi> 6.</p>
+                        <q>
+                           <l>Mean while <hi>Aeneas</hi> as he musing stood,</l>
+                           <l>In a dark Valley, saw a shady Wood:</l>
+                           <l>The trembling leaves with e'ery blast did shake,</l>
+                           <l>And near it <hi>Lethe</hi>'s soporiferous <hi>Lake.</hi>
+                           </l>
+                           <l>Whose Waters by the happy Mansions glide,</l>
+                           <l>And Multitudes of People swarming by its side.</l>
+                        </q>
+                        <p>which <hi>Aeneas</hi> desiring to know the meaning of, <hi>Anchises</hi> [his Father] tells him, that
+<q>
+                              <l>These when a Thousand rowling Years are past,</l>
+                              <l>To <hi>Lethe</hi> they in numerous Troops do hast,</l>
+                              <l>Unmindful then of Pleasure and of Pain,</l>
+                              <l>They wish to see and dwell upon the Earth again.</l>
+                           </q>
+                        </p>
+                     </note>
+                     <hi>Lethe</hi> has with you▪ But yet there are <hi>some few</hi> amongst
+<pb n="46" facs="tcp:32791:36"/>'em that have not this wax in their Ears, but are a little <hi>inclin'd</hi> to <hi>Truth</hi> and have <hi>some</hi> Knowledge of the <hi>true Nature</hi> of these Earthly things.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Shall I call to <hi>them</hi> then?</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>'Tis needless to tell 'em what they know already. You see how they withdraw and seperate themselves from the many, how they laugh at their Follies, and can by
+<pb n="47" facs="tcp:32791:36"/>no means take any delight in their Company, but seem to be desirous to <hi>leave</hi> the World and <hi>come to us.</hi> For indeed they are generally <hi>hated</hi> be<g ref="char:EOLhyphen"/>cause they convince Men of their <hi>Folly</hi> and <hi>Ignorance</hi> and reprove 'em for it.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>Well done, O you Gene<g ref="char:EOLhyphen"/>rous Souls! yet Alas! <hi>Mercury,</hi> they are but a very few.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>'Tis well there are any. But now let us go down again.</p>
+               </sp>
+            </div>
+            <div n="13" type="section">
+               <head>SECT. XIII.</head>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>There is yet <hi>one thing</hi> more I wou'd fain learn, which when you have shown me, you will have given me perfect instruction in all things: I have a great mind to see where they put their <hi>Dead Bodies</hi> when they dig into the Earth so.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>You mean their <hi>Monuments Tombs</hi> and <hi>Sepulchres.</hi> Don't you
+<pb n="48" facs="tcp:32791:37"/>see those Tombs without their Ci<g ref="char:EOLhyphen"/>ties there, those <hi>Pillars</hi> and <hi>Pyra<g ref="char:EOLhyphen"/>mides?</hi> All those are the Receptacles and Prisons of the Dead.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>But why do they Crown these Stones then, and Anoint 'em? And some I see having made a great <hi>Pile</hi> and a <hi>Trench</hi> before the Tomb, they make a sumptuous Feast which they burn in the Fire, and pour Wine and Mead [as I conjecture] into the <hi>Trench.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Indeed, <hi>Charon,</hi> I don't know what these things <hi>signify</hi> to the <hi>Dead.</hi> But they have an Opinion that the <hi>Souls</hi> do return from the Shades below for to <hi>Sup</hi> after a sort by flying about the <hi>smoak</hi> and <hi>steam</hi> of the Meat, and to <hi>drink</hi> Wine and Mead out of the Trenches.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>What <hi>those</hi> eat and drink that have such <hi>dry Scalpes!</hi> But this is an impertinent Question to ask you, who daily bring 'em to my Boat, and you know very well that when
+<pb n="49" facs="tcp:32791:37"/>they have once left the Earth and are possest of their new infernal Habita<g ref="char:EOLhyphen"/>tions, there is <hi>no returning.</hi> But the silliest thing of all is for them to fancy that I, who shall have so much business on my Hands, must not on<g ref="char:EOLhyphen"/>ly Ferry them over the Lake, but bring 'em <hi>back again too,</hi> whenever they have a mind to drink. O Fools! what a madness is this! But you know not [alas] what a vast distance the <hi>Dead</hi> are remov'd from the Con<g ref="char:EOLhyphen"/>fines of the <hi>Living,</hi> neither do you consider the <hi>State</hi> and <hi>Condition</hi> of those <hi>with us;</hi> where those are.
+<q>
+                        <l>As surely Dead, which Stately Monuments have,</l>
+                        <l>As they t' whom Fortune has deny'd a Grave.</l>
+                        <l>Wet
+<note n="(p)" place="bottom">
+                              <hi>Agamemnon] The General of the</hi> Greeks <hi>in the</hi> Trojan <hi>War.</hi>
+                           </note> Agamemnon <hi>and poor</hi>
+                           <note n="(q)" place="bottom">
+                              <hi>Irus]</hi> A poor beggarly Fellow of <hi>Ithaca,</hi> slave to the wooers of <hi>Tenelope,</hi> He was poor to a Proverb.</note> Irus <hi>show</hi>
+                        </l>
+                        <l>The same respect and reverence below.</l>
+                        <pb n="50" facs="tcp:32791:38"/>
+                        <l>Deform'd
+<note n="(r)" place="bottom">
+                              <hi>Thersites]</hi> A <hi>Grecian</hi> Captain in the <hi>Trojan</hi> Wars, an ugly Fellow, he is thus discribed by <hi>Homer, Iliad.</hi> 1.
+<q>
+                                 <l>
+                                    <hi>Lame of his Feet and Goggle Eye'd,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>His Shoulders hanging o'er his Breast:</hi>
+                                 </l>
+                                 <l>
+                                    <hi>His Head was sharp and steeple crown'd</hi>
+                                 </l>
+                                 <l>
+                                    <hi>With here and there a Hair on it.</hi>
+                                 </l>
+                              </q>
+                           </note>
+                           <hi>Thersites</hi> and fair
+<note n="(s)" place="bottom">
+                              <hi>Thetis</hi> Son] <hi>Achilles</hi> one of the <hi>Grecian</hi> Com<g ref="char:EOLhyphen"/>manders, his Mother <hi>Thetis</hi> was the Daughter of <hi>Nereus</hi> and the wife of <hi>Peleus</hi> and was account<g ref="char:EOLhyphen"/>ed a Sea Goddess.</note>
+                           <hi>Thetis</hi>'s Son</l>
+                        <l>Are there alike; both ghastly Looks put on.</l>
+                        <l>All horrow'd Glory there aside is laid;</l>
+                        <l>Naked they wander thro' the gloomy Shade.</l>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>What a deal of Poetry you have learnt of <hi>Homer!</hi> But now you have put me in mind on't, I'll shew you <hi>Achilles</hi> his Sepulcher. Do you see that which is hard by the Sea in the <hi>Trojan</hi> Promontory <hi>Sigaeum?</hi> and overagainst it, is the Promontory <hi>Rhoetaeum</hi> where is the Sepulcher of
+<note n="(t)" place="bottom">
+                        <hi>Ajax]</hi> The Son of <hi>Pelamon</hi> and <hi>Hesione,</hi> a<g ref="char:EOLhyphen"/>nother <hi>Grecian</hi> Commander.</note>
+                     <hi>Ajax.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="14" type="section">
+               <pb n="51" facs="tcp:32791:38"/>
+               <head>SECT. XIV.</head>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>These Tombs and Monu<g ref="char:EOLhyphen"/>ments are poor things! But shew me those famous <hi>Cities</hi> of which such great things are told us below; <hi>viz. Ninive</hi> and <hi>Babylon,</hi>
+                     <note n="(u)" place="bottom">
+                        <hi>Mycena</hi> and <hi>Cleone</hi>] Two Famous Cities of <hi>Greece,</hi> but long since Ruin'd.</note>
+                     <hi>Mycena</hi> and <hi>Cleone,</hi> and especially <hi>Troy;</hi> for I remember a great many came to our Eerry from thence, so that
+<note n="(w)" place="bottom">
+                        <hi>My Boat never cool'd for Ten Years together] Troy</hi> was Besieged Ten Years by the <hi>Greeks,</hi> and at last by Subtilty and Treachery was taken and destroy'd.</note> my Boat never cool'd for Ten Years together.</p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>As for <hi>Ninive,</hi> 'tis now so utterly ruin'd, as there is not the least sign of it remaining; neither can one tell the place where it stood. But yonder is <hi>Babylon</hi> which you see Fortifyed with Towers and Bulwarks and fenced with a prodigious Wall;
+<pb n="52" facs="tcp:32791:39"/>tho' after a while there will be as little of it to be seen as there is now of <hi>Ninive.</hi> And as for <hi>Mycena</hi> and <hi>Cleone,</hi> I am realy <hi>asham'd</hi> to show you 'em, and especially <hi>Troy:</hi> for I know that when you return, you will be ready to Hang <hi>Homer</hi> for singing such magnifick things of 'em. Yet these were once very glorious, but now they are perished and <hi>Dead:</hi> for even <hi>Cities Dye,</hi> O <hi>Charon,</hi> as well as <hi>Men;</hi> and [which is yet more wonderful] Rivers too; for there is no footsteps left of the Ri<g ref="char:EOLhyphen"/>ver <hi>Inachus</hi> in <hi>Argos.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Ah <hi>Homer!</hi> what extrava<g ref="char:EOLhyphen"/>gant Praises and lofty Names have you given these Cities!</p>
+                  <p>
+                     <hi>Great</hi> Troy <hi>with spacious Walls, and Stately</hi> Cleone.</p>
+               </sp>
+            </div>
+            <div n="15" type="section">
+               <head>SECT. XV.</head>
+               <p>But while we are talking here, who are those that are <hi>Fighting</hi> yon<g ref="char:EOLhyphen"/>der, and what do they Kill one ano<g ref="char:EOLhyphen"/>ther for?</p>
+               <pb n="53" facs="tcp:32791:39"/>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>Those are the <hi>Argives</hi> and <hi>Spartans,</hi> O <hi>Charon,</hi> and there you see
+<note n="(x)" place="bottom">
+                        <hi>Otryades their Dying General]</hi> A <hi>Spartan</hi> there was a Controversie between the <hi>Spartans</hi> and <hi>Argives</hi> about Certain lands: They agreed that 300 Men on both sides shou'd try the matter by Combat, and the land shou'd go to that part that had the Victory: all the <hi>Spartans</hi> were Slain but <hi>Otryades,</hi> and of the <hi>Argives</hi> but two left and those two ran away: He for shame that his Men were all Slain, wou'd not return home, but writing on his Target VICI. I have over<g ref="char:EOLhyphen"/>come the Slew himself.</note>
+                     <hi>Otryades</hi> their Dying Gene<g ref="char:EOLhyphen"/>ral, writing his Trophy with his own Blood.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>But <hi>what</hi> do they fight <hi>for?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>For that very <hi>Field</hi> which they fight in.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>O the Folly of Men, that don't consider that tho' any one of 'em shou'd possess all <hi>Greece,</hi> yet when he comes to us, there will scarcely the space of <hi>one Foot</hi> be alloted him by <hi>Aeacus.</hi> And others wou'd have Tilled this Ground after another
+<pb n="54" facs="tcp:32791:40"/>manner, with <hi>Ploughs</hi> instead of <hi>Swords.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Merc.</speaker>
+                  <p>These things will be, <hi>Cha<g ref="char:EOLhyphen"/>ron;</hi> but now let us descend, and when we have set the Mountains in their places again, go about our bu<g ref="char:EOLhyphen"/>siness: I to the place where I was sent, and you to your Boat: and I'll be with you presently, and bring a whole drove of Souls along with me.</p>
+               </sp>
+               <sp>
+                  <speaker>Char.</speaker>
+                  <p>You have done me a great Kindness, <hi>Mercury,</hi> by assisting me in this peregrination, which I shall ever gratefully acknowledge. Oh the prodigious Follies of wretched Mortals! They are solicitous for <hi>Growns</hi> and <hi>Scepters, Wedges</hi> of <hi>Gold,</hi> pompous <hi>Sacrafices, Success</hi> and <hi>Vict<g ref="char:EOLhyphen"/>ory;</hi> but they never think of <hi>Charon.</hi>
+                  </p>
+               </sp>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:32791:40"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
